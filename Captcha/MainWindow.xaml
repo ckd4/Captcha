@@ -1,0 +1,22 @@
+﻿<Window x:Class="Captcha.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Captcha"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="309" Width="493">
+    <Grid>
+        <Label x:Name="CaptchaLabel" Content="Captcha" HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" FontSize="24" Width="277"/>
+        <Button x:Name="GenerateBT" Content="Generate" HorizontalAlignment="Left" Margin="292,169,0,0" VerticalAlignment="Top" FontSize="22" Click="GenerateBT_Click"/>
+        <TextBox x:Name="CheckTB" HorizontalAlignment="Left" Margin="10,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="277" FontSize="22"/>
+        <Button x:Name="CheckBT" Content="Compare" HorizontalAlignment="Left" Margin="292,224,0,0" VerticalAlignment="Top" FontSize="22" Click="CheckBT_Click"/>
+        <TextBox x:Name="SymbolsTB" HorizontalAlignment="Left" Margin="126,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <TextBox x:Name="DigitsTB" HorizontalAlignment="Left" Margin="126,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <CheckBox x:Name="RepeatCB" Content="Repeat" HorizontalAlignment="Left" Margin="302,92,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="dadawdaw" Content="Digits_Count" HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="dadawdaw_Copy" Content="Symbols Count" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="LabelValid" Content="" HorizontalAlignment="Left" Margin="168,20,0,0" VerticalAlignment="Top" FontSize="20" Width="216"/>
+
+    </Grid>
+</Window>

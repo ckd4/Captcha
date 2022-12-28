@@ -1,0 +1,12 @@
+C:\Users\user.UIT\Desktop\CaptchaClass\bin\Debug\CaptchaClass.dll
+C:\Users\user.UIT\Desktop\CaptchaClass\bin\Debug\CaptchaClass.pdb
+C:\Users\user.UIT\Desktop\CaptchaClass\obj\Debug\CaptchaClass.csproj.AssemblyReference.cache
+C:\Users\user.UIT\Desktop\CaptchaClass\obj\Debug\CaptchaClass.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\CaptchaClass\obj\Debug\CaptchaClass.dll
+C:\Users\user.UIT\Desktop\CaptchaClass\obj\Debug\CaptchaClass.pdb
+E:\CaptchaClass\bin\Debug\CaptchaClass.dll
+E:\CaptchaClass\bin\Debug\CaptchaClass.pdb
+E:\CaptchaClass\obj\Debug\CaptchaClass.csproj.AssemblyReference.cache
+E:\CaptchaClass\obj\Debug\CaptchaClass.csproj.CoreCompileInputs.cache
+E:\CaptchaClass\obj\Debug\CaptchaClass.dll
+E:\CaptchaClass\obj\Debug\CaptchaClass.pdb
